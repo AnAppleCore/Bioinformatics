@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Bioinformatics Course Notes
 description: This site contains the lecture notes of Bioinformatics Course
+show_downloads: true
